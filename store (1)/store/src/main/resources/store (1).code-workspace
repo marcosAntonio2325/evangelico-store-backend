@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "store (1)",
+			"path": "../../../.."
+		},
+		{
+			"name": "evangelico-store-frontend-completo",
+			"path": "../../../../../evangelico-store-frontend-completo"
+		}
+	],
+	"settings": {
+		"jira-plugin.workingProject": ""
+	}
+}
